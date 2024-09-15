@@ -13,4 +13,4 @@ Made from the [20221102](https://github.com/Koenkk/Z-Stack-firmware/tree/517fbd0
    - 'Force VDDR' is enabled (necessary for 20dBm).
 4. Internal build number changed to 20240909.
 
-**WARNING: This version does not report FW version to XZG firmware (management UI).**
+**WARNING: This version does not report FW build number to XZG firmware (management UI).**
