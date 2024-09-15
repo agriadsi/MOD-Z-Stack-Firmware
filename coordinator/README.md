@@ -1,6 +1,6 @@
 # Z-Stack 3.x.0 Coordinator firmware for RF-BM-2652P4I module on CC2652P7 chip (for UZG-01, HMG-01 Plus gateways).
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/XZG_20240909/coordinator/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/XZG_20240909/coordinator/README.ru.md)
 
 
 Made from the 202407010 sources published by Koen Kanters (with minor modifications):
