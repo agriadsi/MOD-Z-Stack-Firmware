@@ -1,4 +1,7 @@
 # Прошивка координатора Z-Stack 3.x.0 для модуля RF-BM-2652P4I на чипе СС2652P7 (для шлюзов UZG-01, HMG-01 Plus).
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/XZG_20240909/coordinator/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/XZG_20240909/coordinator/README.ru.md)
+
 
 Сделано на основе опубликованных исходников Koen Kanters 202407010 (с незначительными изменениями):
 1. Собрано на компьютере с Windows 11, все файлы прошивок получаются чуть меньше, чем опубликованные Koen Kanters.
