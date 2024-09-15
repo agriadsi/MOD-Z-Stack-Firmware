@@ -12,3 +12,5 @@ Made from the [20221102](https://github.com/Koenkk/Z-Stack-firmware/tree/517fbd0
    - 48Mhz crystal capacitors built into the chip are turned off (as the module schematic shows external capacitors used, which are necessary for 20dBm),
    - 'Force VDDR' is enabled (necessary for 20dBm).
 4. Internal build number changed to 20240909.
+
+**WARNING: This version does not report FW version to XZG firmware (management UI).**
