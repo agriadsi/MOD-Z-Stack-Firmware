@@ -1,6 +1,6 @@
 # Прошивка роутера Z-Stack 3.x.0 для модуля RF-BM-2652P4I на чипе СС2652P7 (для шлюзов UZG-01, HMG-01 Plus).
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/XZG_20240909/router/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/XZG_20240909/router/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/tree/ea873076a2cfe9321f8d3231d5cc39a0b935c2af/router/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/tree/ea873076a2cfe9321f8d3231d5cc39a0b935c2af/router/README.ru.md)
 
 
 Сделано на основе опубликованных исходников Koen Kanters [20221102](https://github.com/Koenkk/Z-Stack-firmware/tree/517fbd0d68fc3369c9e49511977aa7594e48d505/router/Z-Stack_3.x.0) (на основе прошивки для CC2652P):
