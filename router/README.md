@@ -1,6 +1,6 @@
 # Z-Stack 3.x.0 Router firmware for RF-BM-2652P4I module on CC2652P7 chip (for UZG-01, HMG-01 Plus gateways).
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/fbac7b86dbfe2b568dd591ca799e0eb0b9a21e3d/router/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/fbac7b86dbfe2b568dd591ca799e0eb0b9a21e3d/router/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/main/router/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/agriadsi/MOD-Z-Stack-Firmware/blob/main/router/README.ru.md)
 
 
 Made from the [20221102](https://github.com/Koenkk/Z-Stack-firmware/tree/517fbd0d68fc3369c9e49511977aa7594e48d505/router/Z-Stack_3.x.0) sources published by Koen Kanters, using [SDK 7.41.00.17](https://www.ti.com/tool/download/SIMPLELINK-LOWPOWER-F2-SDK/7.41.00.17) with **maclib_*.a** binary patch from [20240710 firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/ab4d8deb8a5203c3fbc7d292ba95083abc3f0bc5/coordinator/Z-Stack_3.x.0):
