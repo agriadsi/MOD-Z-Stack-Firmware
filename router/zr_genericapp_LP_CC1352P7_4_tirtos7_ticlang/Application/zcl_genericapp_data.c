@@ -99,7 +99,7 @@ const uint8_t zclGenericApp_HWRevision = GENERICAPP_HWVERSION;
 const uint8_t zclGenericApp_ZCLVersion = GENERICAPP_ZCLVERSION;
 const uint8_t zclGenericApp_ManufacturerName[] = { 16, 'T','e','x','a','s','I','n','s','t','r','u','m','e','n','t','s' };
 const uint8_t zclGenericApp_ModelID[] = { 9, 't','i','.','r','o','u','t','e','r' };
-const uint8_t zclGenericApp_SwBuildID[] = { 8, '2','0','2','2','1','1','0','3' };
+const uint8_t zclGenericApp_SwBuildID[] = { 8, '2','0','2','4','0','9','0','9' };
 const uint8_t zclGenericApp_PowerSource = POWER_SOURCE_MAINS_1_PHASE;
 uint8_t zclGenericApp_PhysicalEnvironment = PHY_UNSPECIFIED_ENV;
 int8_t zclGenericApp_TransmitPower;
