@@ -4,7 +4,7 @@
 - SDK 6.30.00.84
 - Changed CC2652P7 transmitter power settings table to allow 20 dBm TX power
 - DCDC converter built into the chip is enabled
-- 48Mhz crystal capacitors built in the chip disabled
+- 48Mhz crystal capacitors built into the chip disabled
 - 'Force VDDR' enabled
 - Added UART NPI interface
 
