@@ -6,7 +6,6 @@
 - DCDC converter built into the chip is enabled
 - 48Mhz crystal capacitors built into the chip disabled
 - 'Force VDDR' enabled
-- Added UART NPI interface
 
 # 20240920
 - SDK 7.41.00.17 with maclib_*.a binary patch
