@@ -13,4 +13,4 @@ Made from the [20221102](https://github.com/Koenkk/Z-Stack-firmware/tree/517fbd0
    - 48Mhz crystal capacitors built into the chip are turned off (as the module schematic shows external capacitors used, which are necessary for 20dBm),
    - 'Force VDDR' is enabled (necessary for 20dBm).
 6. Added UART NPI interface for ability to report FW version to host MCU.
-4. Internal build number changed to 20241002.
+4. Internal build number changed to 20241010.
