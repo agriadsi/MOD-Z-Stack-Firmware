@@ -11,5 +11,5 @@
 - SDK 7.41.00.17 with maclib_*.a binary patch
 - Added UART NPI interface
 
-# 20241002
-- Added ZigBee LED control
+# 20241010
+- Added ZigBee LED control (for NPI interface)
